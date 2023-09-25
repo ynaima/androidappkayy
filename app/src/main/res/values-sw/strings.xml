@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Assignments</string>
+    <string name="hello_message">Habari Dunia!</string>
+    <string name="ButtonText">mimi ni kifungo</string>
+    <string name="loginText">Ingia</string>
+    <string name="edit_message">jina la kuingia</string>
+    <string name="password_message">Nenosiri</string>
+    <string name="password_hint">nenosiri</string>
+    <string name="switchText">Hii inafanya nini?</string>
+</resources>

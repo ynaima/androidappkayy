@@ -3,4 +3,9 @@
     <string name="app_name">Android Assignments</string>
     <string name="hello_message">Bonjour!</string>
     <string name="ButtonText">Je suis un bouton</string>
+    <string name="loginText">connexion</string>
+    <string name="edit_message">nom de connexion</string>
+    <string name="password_message">Mot de passe</string>
+    <string name="password_hint">mot de passe</string>
+    <string name="switchText">à quoi cela sert-il ?</string>
 </resources>
